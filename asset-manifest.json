@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/andrei-site/static/css/main.65c58446.css",
+    "main.css": "/andrei-site/static/css/main.1fa74ece.css",
     "main.js": "/andrei-site/static/js/main.88b5a71d.js",
     "static/media/background 1.jpg": "/andrei-site/static/media/background 1.d0598212ffb64d0d3bda.jpg",
     "static/media/andreicruz2.png": "/andrei-site/static/media/andreicruz2.66ea9e81be0bd7a93d97.png",
@@ -18,11 +18,11 @@
     "static/media/youtube-square-brands.svg": "/andrei-site/static/media/youtube-square-brands.afda7fc510cc0f93245ca7c95069c0d2.svg",
     "static/media/arrow-up-solid.svg": "/andrei-site/static/media/arrow-up-solid.f1944a7fde73d34f5e0b47caf73a9788.svg",
     "static/media/telegram-svgrepo-com.svg": "/andrei-site/static/media/telegram-svgrepo-com.5d3d847d807858eee2698076cb6e990e.svg",
-    "main.65c58446.css.map": "/andrei-site/static/css/main.65c58446.css.map",
+    "main.1fa74ece.css.map": "/andrei-site/static/css/main.1fa74ece.css.map",
     "main.88b5a71d.js.map": "/andrei-site/static/js/main.88b5a71d.js.map"
   },
   "entrypoints": [
-    "static/css/main.65c58446.css",
+    "static/css/main.1fa74ece.css",
     "static/js/main.88b5a71d.js"
   ]
 }
