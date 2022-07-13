@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/andrei-site/static/css/main.af00f177.css",
+    "main.js": "/andrei-site/static/js/main.92d1cb80.js",
+    "static/media/background 1.jpg": "/andrei-site/static/media/background 1.d0598212ffb64d0d3bda.jpg",
+    "static/media/andreicruz2.png": "/andrei-site/static/media/andreicruz2.66ea9e81be0bd7a93d97.png",
+    "static/media/background 2.jpg": "/andrei-site/static/media/background 2.354e39edf9b5ea0309eb.jpg",
+    "static/media/andreicruz1.png": "/andrei-site/static/media/andreicruz1.845dbeb321bbf56b67d3.png",
+    "static/media/background 3.jpg": "/andrei-site/static/media/background 3.bf138c51c8ef92eaf6de.jpg",
+    "static/media/elementovisual1.png": "/andrei-site/static/media/elementovisual1.429d3b4d7dd62edc20dd.png",
+    "static/media/ANDREICRUZ.svg": "/andrei-site/static/media/ANDREICRUZ.ffd1ccfd87808dca9a534c59b81582e7.svg",
+    "static/media/modal-next.svg": "/andrei-site/static/media/modal-next.d79226ce4c51ce074a8c7303e0f49321.svg",
+    "static/media/modal-previous.svg": "/andrei-site/static/media/modal-previous.bf46af516f1e4f4b0112cfe199cfa0f4.svg",
+    "index.html": "/andrei-site/index.html",
+    "static/media/instagram-square-brands.svg": "/andrei-site/static/media/instagram-square-brands.728c2ad841f5ac42cb68d7077f75a052.svg",
+    "static/media/modal-close.svg": "/andrei-site/static/media/modal-close.8d5bcabb148dfd9468468851b7193f73.svg",
+    "static/media/youtube-square-brands.svg": "/andrei-site/static/media/youtube-square-brands.afda7fc510cc0f93245ca7c95069c0d2.svg",
+    "static/media/arrow-up-solid.svg": "/andrei-site/static/media/arrow-up-solid.f1944a7fde73d34f5e0b47caf73a9788.svg",
+    "static/media/telegram-svgrepo-com.svg": "/andrei-site/static/media/telegram-svgrepo-com.5d3d847d807858eee2698076cb6e990e.svg",
+    "main.af00f177.css.map": "/andrei-site/static/css/main.af00f177.css.map",
+    "main.92d1cb80.js.map": "/andrei-site/static/js/main.92d1cb80.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.af00f177.css",
+    "static/js/main.92d1cb80.js"
+  ]
+}
