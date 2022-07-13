@@ -11,9 +11,9 @@ export default function ComponentOne() {
 					<h2 className='font-main white'>SATISFAÇÃO</h2>
 					<img src={NomeAndrei} alt='Andrei Cruz' />
 					<h2 className='font-main white'>
-						Eu vou compartilhar com você, as estratégias que uso para selecionar as
-						melhores e pouco exploradas oportunidades neste novo mercado. Além disso, eu ainda vou
-						te levar para Dubai, com os lucros que você terá com as operações!
+						Além de ser especialista em criptomoedas e possuir cerca de 20 mil
+						seguidores em minhas redes sociais, fui Oficial das Forças Armadas
+						do Brasil e carrego como lema a honra, a lealdade e o comprometimento!
 					</h2>
 				</div>
 				<img src={ImgBusinessAndrei} alt='' className='capa-andrei' />
