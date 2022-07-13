@@ -1,0 +1,34 @@
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  height: 128px;
+  color: #ffffff;
+  font-size: 14px;
+  border-bottom: 1px solid #6a6363;
+  padding: 0 32px;
+}
+
+.logo {
+  cursor: pointer;
+  height: 80px;
+}
+
+.container-welcome {
+  display: flex;
+  align-items: center;
+}
+
+.profile-img {
+  cursor: pointer;
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  border: 2px solid #6A6363;
+  margin-right: 8px;
+}
+
+.container-welcome strong {
+  font-size: larger;
+}

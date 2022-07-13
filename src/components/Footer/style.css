@@ -1,0 +1,24 @@
+.co3-content {
+	display: flex;
+	justify-content: center;
+	background: url("../../assets/background 4.png");
+	padding: 100px 0;
+	background-size: cover;
+	width: 100%;
+	max-width: 100vw;
+	background-position: center;
+	margin-top: 50px;
+	gap: 10px;
+}
+
+.ico {
+	width: 70px;
+	height: 80px;
+	cursor: pointer;
+}
+
+.ico-telegram {
+	width: 70px;
+	height: 80px;
+	cursor: pointer;
+}

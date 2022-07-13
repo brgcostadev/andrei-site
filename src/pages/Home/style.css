@@ -1,0 +1,124 @@
+.container {
+	background: url("../../assets/background 3.jpg");
+	background-position: center;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: space-between;
+}
+
+main {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	width: 80%;
+	padding-right: 20px;
+	margin-top: 50px;
+}
+
+main h2 {
+	color: #ffffff;
+	padding-bottom: 24px;
+	margin-bottom: 12px;
+}
+
+.container-cards {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	gap: 10px;
+}
+
+.font-main {
+	font-family: "Roboto", sans-serif;
+	font-size: 36px;
+	font-weight: 400;
+}
+
+.font-main-italic {
+	color: white;
+	font-family: "Roboto", sans-serif;
+	font-size: 64px;
+	font-weight: 900;
+	letter-spacing: -2px;
+	background-color: #130633;
+	padding: 0 30px;
+}
+
+.font-name {
+	color: white;
+	font-family: "Roboto", sans-serif;
+	font-size: 86px;
+	font-weight: 900;
+	letter-spacing: -2px;
+}
+
+.ai-center {
+	align-items: center;
+}
+
+.arrow-top {
+	position: fixed;
+	width: 50px;
+	height: 50px;
+	bottom: 15px;
+	right: 15px;
+	padding: 10px;
+	background-color: white;
+	border-radius: 50%;
+	cursor: pointer;
+}
+
+@media only screen and (max-width: 1649px) {
+	.font-main {
+		font-family: "Roboto", sans-serif;
+		font-size: 32px;
+		font-weight: 400;
+	}
+
+	.font-main-italic {
+		font-size: 35px;
+	}
+}
+
+@media only screen and (max-width: 1490px) {
+	main {
+		width: 90%;
+	}
+
+	.container-cards {
+		display: flex;
+		justify-content: center;
+		gap: 15px;
+		flex-wrap: wrap;
+	}
+}
+
+@media only screen and (max-width: 937px) {
+	.container-cards {
+		margin-bottom: 100px;
+	}
+}
+
+@media only screen and (max-width: 750px) {
+	.font-main {
+		font-family: "Roboto", sans-serif;
+		font-size: 24px;
+		font-weight: 400;
+	}
+
+	.font-main-italic {
+		color: white;
+		font-family: "Roboto", sans-serif;
+		font-size: 37px;
+		font-weight: 900;
+		letter-spacing: -2px;
+		background-color: #130633;
+		padding: 0 30px;
+	}
+
+	.mg-top-200 {
+		margin-top: 40px;
+	}
+}

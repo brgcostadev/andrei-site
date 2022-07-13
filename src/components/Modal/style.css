@@ -1,0 +1,84 @@
+.modal {
+	position: fixed;
+
+	top: 0;
+	left: 0;
+	right: 0;
+	bottom: 0;
+	background-color: rgba(0, 0, 0, 0.9);
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.modal-close {
+	position: absolute;
+	top: 15px;
+	right: 15px;
+	width: 40px;
+	cursor: pointer;
+}
+
+.modal-controls {
+	display: flex;
+	gap: 30px;
+}
+
+.modal-previous {
+	width: 100px;
+	cursor: pointer;
+}
+
+.modal-next {
+	width: 100px;
+	cursor: pointer;
+}
+
+.modal-display-none {
+	display: none;
+}
+
+.video-responsive {
+	width: 800px;
+	height: 600px;
+}
+
+@media only screen and (max-width: 900px) {
+	.video-responsive {
+		width: 500px;
+		height: 400px;
+	}
+	.modal-close {
+		width: 30px;
+	}
+
+	.modal-previous {
+		width: 50px;
+	}
+
+	.modal-next {
+		width: 50px;
+	}
+}
+
+@media only screen and (max-width: 678px) {
+	.video-responsive {
+		width: 350px;
+		height: 300px;
+	}
+}
+
+@media only screen and (max-width: 537px) {
+	.video-responsive {
+		width: 350px;
+		height: 300px;
+	}
+
+	.modal-previous {
+		display: none;
+	}
+
+	.modal-next {
+		display: none;
+	}
+}

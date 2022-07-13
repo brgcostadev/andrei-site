@@ -1,0 +1,185 @@
+.co2-container {
+	background: url("../../assets/background 2.jpg") no-repeat;
+	background-size: cover;
+	width: 100%;
+	max-width: 100vw;
+	background-position: center;
+	display: flex;
+	flex-direction: column;
+}
+
+.co2-content {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+}
+
+.ct-container {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	width: 100%;
+}
+
+.primeiro-h1 {
+	font-size: 64px;
+	font-weight: 900;
+	color: white;
+	margin: 50px 0 50px 0;
+}
+
+.font-p {
+	color: #130633;
+	font-weight: 700;
+	font-size: 30px;
+	font-family: "Roboto", sans-serif;
+	font-size: 36px;
+	font-weight: 500;
+	max-width: 900px;
+}
+
+.co2-content2 {
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	margin-bottom: 300px;
+}
+
+.segundo-h1 {
+	font-size: 100px;
+	margin-bottom: 30px;
+	color: #130633;
+}
+
+.segundo-p {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	font-size: 30px;
+	color: #130633;
+	font-weight: 500;
+}
+
+.unico-h1 {
+	margin-top: 100px;
+	margin-bottom: 30px;
+	font-size: 100px;
+}
+
+.participe-link {
+	font-size: 40px;
+	padding: 20px 300px;
+	margin-bottom: 60px;
+	text-decoration: none;
+	background-color: white;
+	color: rgba(19, 6, 51, 0.3);
+	font-weight: 900;
+}
+
+.participe-link:hover {
+	color: rgb(19, 6, 51);
+}
+
+.font-strong {
+	font-weight: 900;
+}
+
+.maoComMoeda {
+	width: 700px;
+	margin-top: 50px;
+}
+@media only screen and (max-width: 1649px) {
+	.font-p {
+		max-width: 750px;
+	}
+
+	.maoComMoeda {
+		width: 500px;
+	}
+	.segundo-h1 {
+		font-size: 62px;
+	}
+
+	.participe-link {
+		max-width: 700px;
+		padding: 10px 200px;
+	}
+
+	.co2-center {
+		font-size: 18px;
+		max-width: 650px;
+	}
+}
+
+@media only screen and (max-width: 1418px) {
+	.ct-container {
+		display: flex;
+		flex-direction: column;
+		width: 100%;
+	}
+
+	.maoComMoeda {
+		width: 600px;
+		margin-top: 50px;
+	}
+
+	.segundo-h1 {
+		font-size: 70px;
+		margin-bottom: 30px;
+		color: #130633;
+	}
+}
+
+@media only screen and (max-width: 958px) {
+	.font-p {
+		max-width: 700px;
+	}
+
+	.participe-link {
+		max-width: 600px;
+		padding: 15px 100px;
+	}
+
+	.segundo-h1 {
+		text-align: center;
+		font-size: 50px;
+	}
+
+	.co2-center {
+		text-align: center;
+	}
+}
+
+@media only screen and (max-width: 750px) {
+	.primeiro-h1 {
+		font-size: 32px;
+	}
+
+	.font-p {
+		font-size: 21px;
+		max-width: 350px;
+		text-align: justify;
+	}
+
+	.maoComMoeda {
+		width: 300px;
+	}
+
+	.segundo-h1 {
+		font-size: 28px;
+	}
+
+	.participe-link {
+		max-width: 350px;
+		padding: 15px 70px;
+	}
+
+	.co2-center {
+		font-size: 24px;
+		max-width: 320px;
+	}
+}
