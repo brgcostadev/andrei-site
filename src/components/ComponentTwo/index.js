@@ -1,11 +1,12 @@
 import ImgMaoComMoeda from "../../assets/elementovisual1.png";
+import LaMoedita from "../../assets/LAMOEDITA.svg";
 import "./style.css";
 
 export default function ComponentTwo() {
 	return (
 		<div className='co2-container'>
 			<div className='co2-content'>
-				<h1 className='primeiro-h1'>LA MOEDITA SECRETA</h1>
+				<img src={LaMoedita} alt='Moeda goldario' className='la-moedita' />
 				<div className='ct-container'>
 					<p className='font-p'>
 						Eu vou compartilhar as estratégias que uso para selecionar as

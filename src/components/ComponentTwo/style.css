@@ -92,9 +92,18 @@
 	width: 700px;
 	margin-top: 50px;
 }
+
+.la-moedita {
+	margin-top: 50px;
+	width: 1400px;
+}
 @media only screen and (max-width: 1649px) {
 	.font-p {
 		max-width: 750px;
+	}
+
+	.la-moedita {
+		width: 1200px;
 	}
 
 	.maoComMoeda {
@@ -122,6 +131,10 @@
 		width: 100%;
 	}
 
+	.la-moedita {
+		margin-bottom: 80px;
+	}
+
 	.maoComMoeda {
 		width: 600px;
 		margin-top: 50px;
@@ -131,6 +144,12 @@
 		font-size: 70px;
 		margin-bottom: 30px;
 		color: #130633;
+	}
+}
+
+@media only screen and (max-width: 1217px) {
+	.la-moedita {
+		width: 800px;
 	}
 }
 
@@ -157,6 +176,10 @@
 @media only screen and (max-width: 750px) {
 	.primeiro-h1 {
 		font-size: 32px;
+	}
+
+	.la-moedita {
+		width: 450px;
 	}
 
 	.font-p {
