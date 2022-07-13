@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/andrei-site/static/css/main.1fa74ece.css",
-    "main.js": "/andrei-site/static/js/main.88b5a71d.js",
+    "main.css": "/andrei-site/static/css/main.08bbd80d.css",
+    "main.js": "/andrei-site/static/js/main.4dd8bd69.js",
     "static/media/background 1.jpg": "/andrei-site/static/media/background 1.d0598212ffb64d0d3bda.jpg",
     "static/media/andreicruz2.png": "/andrei-site/static/media/andreicruz2.66ea9e81be0bd7a93d97.png",
     "static/media/background 2.jpg": "/andrei-site/static/media/background 2.354e39edf9b5ea0309eb.jpg",
@@ -10,19 +10,19 @@
     "static/media/elementovisual1.png": "/andrei-site/static/media/elementovisual1.429d3b4d7dd62edc20dd.png",
     "static/media/LAMOEDITA.svg": "/andrei-site/static/media/LAMOEDITA.41d07c957074a9778c3da48648088514.svg",
     "static/media/ANDREICRUZ.svg": "/andrei-site/static/media/ANDREICRUZ.ffd1ccfd87808dca9a534c59b81582e7.svg",
-    "static/media/modal-next.svg": "/andrei-site/static/media/modal-next.d79226ce4c51ce074a8c7303e0f49321.svg",
-    "static/media/modal-previous.svg": "/andrei-site/static/media/modal-previous.bf46af516f1e4f4b0112cfe199cfa0f4.svg",
+    "static/media/modal-next.svg": "/andrei-site/static/media/modal-next.ddebb53f349f67ee0ed46a6a4db8d4c9.svg",
+    "static/media/modal-previous.svg": "/andrei-site/static/media/modal-previous.e68f4eba920b639c7330e7b2635481e0.svg",
     "index.html": "/andrei-site/index.html",
     "static/media/instagram-square-brands.svg": "/andrei-site/static/media/instagram-square-brands.728c2ad841f5ac42cb68d7077f75a052.svg",
     "static/media/modal-close.svg": "/andrei-site/static/media/modal-close.8d5bcabb148dfd9468468851b7193f73.svg",
     "static/media/youtube-square-brands.svg": "/andrei-site/static/media/youtube-square-brands.afda7fc510cc0f93245ca7c95069c0d2.svg",
     "static/media/arrow-up-solid.svg": "/andrei-site/static/media/arrow-up-solid.f1944a7fde73d34f5e0b47caf73a9788.svg",
-    "static/media/telegram-svgrepo-com.svg": "/andrei-site/static/media/telegram-svgrepo-com.5d3d847d807858eee2698076cb6e990e.svg",
-    "main.1fa74ece.css.map": "/andrei-site/static/css/main.1fa74ece.css.map",
-    "main.88b5a71d.js.map": "/andrei-site/static/js/main.88b5a71d.js.map"
+    "static/media/telegram-svgrepo-com.svg": "/andrei-site/static/media/telegram-svgrepo-com.f6208d5c4723f8785d77b1db221bf829.svg",
+    "main.08bbd80d.css.map": "/andrei-site/static/css/main.08bbd80d.css.map",
+    "main.4dd8bd69.js.map": "/andrei-site/static/js/main.4dd8bd69.js.map"
   },
   "entrypoints": [
-    "static/css/main.1fa74ece.css",
-    "static/js/main.88b5a71d.js"
+    "static/css/main.08bbd80d.css",
+    "static/js/main.4dd8bd69.js"
   ]
 }
