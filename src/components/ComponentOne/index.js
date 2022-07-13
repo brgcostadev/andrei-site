@@ -8,12 +8,12 @@ export default function ComponentOne() {
 		<div className='co-container'>
 			<div className='co-content ai-center'>
 				<div className='co-content-text'>
-					<h2 className='font-main white'>SATISFAÇÃO, ME CHAMO</h2>
+					<h2 className='font-main white'>SATISFAÇÃO</h2>
 					<img src={NomeAndrei} alt='Andrei Cruz' />
 					<h2 className='font-main white'>
-						Além de ser especialista de criptomoedas e possuir quase 20.000
-						seguidores nas minhas redes sociais, fui Oficial das Forças Armadas
-						do Brasil e tenho como lema a honra!
+						Eu vou compartilhar com você, as estratégias que uso para selecionar as
+						melhores e pouco exploradas oportunidades neste novo mercado. Além disso, eu ainda vou
+						te levar para Dubai, com os lucros que você terá com as operações!
 					</h2>
 				</div>
 				<img src={ImgBusinessAndrei} alt='' className='capa-andrei' />

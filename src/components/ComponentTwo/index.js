@@ -10,7 +10,7 @@ export default function ComponentTwo() {
 				<div className='ct-container'>
 					<p className='font-p'>
 						Eu vou compartilhar as estratégias que uso para selecionar as
-						melhores oportunidades neste novo mercado, pouco explorado e ainda
+						melhores oportunidades neste novo mercado pouco explorado e ainda
 						te levar a Dubai comigo com lucros que você terá com as operações!
 					</p>
 					<img src={ImgMaoComMoeda} alt='' className='maoComMoeda' />

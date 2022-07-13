@@ -46,7 +46,7 @@
 	flex-direction: column;
 	justify-content: center;
 	align-items: center;
-	margin-bottom: 300px;
+	margin-bottom: 150px;
 }
 
 .segundo-h1 {
@@ -99,6 +99,7 @@
 	margin-top: 50px;
 	width: 1400px;
 }
+
 @media only screen and (max-width: 1649px) {
 	.font-p {
 		max-width: 750px;
@@ -111,6 +112,7 @@
 	.maoComMoeda {
 		width: 500px;
 	}
+
 	.segundo-h1 {
 		font-size: 62px;
 	}
@@ -126,7 +128,7 @@
 	}
 }
 
-@media only screen and (max-width: 1418px) {
+@media only screen and (max-width: 1350px) {
 	.ct-container {
 		display: flex;
 		flex-direction: column;
